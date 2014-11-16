@@ -1,0 +1,25 @@
+{
+ "name": "lhkgroup-site",
+ "description": "This is the official site of LHKGroup",
+ "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LHKGroup/site"
+  },
+  "keywords": [
+    "studio",
+    "webapp",
+    "lohanka"
+  ],
+  "license": "MIT"
+}
